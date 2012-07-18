@@ -1,6 +1,10 @@
 source 'https://rubygems.org'
 
 gem 'rails', '3.2.6'
+gem 'execjs'
+gem 'therubyracer'
+gem "multi_json", "~> 1.3.6"
+
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
